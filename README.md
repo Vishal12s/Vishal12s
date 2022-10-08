@@ -13,10 +13,10 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge]](https://www.linkedin.com/in/vishal-s-a27a31237/)
+- 🔭 A College student with interest in web developing.
+- 🌱 A Part-time content-creator
+- ⚡ In my free time I Watch anime and play Valorant.
+
 
 ---
 
